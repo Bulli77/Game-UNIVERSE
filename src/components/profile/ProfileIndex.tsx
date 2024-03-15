@@ -220,7 +220,7 @@ const ProfileIndex = () => {
                                     <Image src={user} alt='' quality={100} className='w-24 h-24 border-white border-solid border-1 rounded-full' />
 
                                     <div className="flex flex-col gap-2 items-center">
-                                        <p className='uppercase text-xl'>JAILNIL PATEL</p>
+                                        <p className='uppercase text-xl'>Karoolajna</p>
 
                                         <div className='flex items-end gap-1'>
                                             <p className='text-gray-400 font-light relative -top-3 tracking-widest'>TOKENS</p>
