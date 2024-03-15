@@ -8,7 +8,7 @@ const HomepageNavbar = () => {
         <div>
             <div className="flex w-full justify-between mt-4 navbarHold mx-auto items-center">
                 <p className='md:text-4xl text-2xl blackBoxFont text-white'>
-                    Gemaverse
+                   FS Universum Platform
                 </p>
 
                 <div className="login-button-container">
