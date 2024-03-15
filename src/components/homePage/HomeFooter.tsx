@@ -14,7 +14,7 @@ const HomeFoooter = () => {
       <div className="flex justify-evenly items-center flex-wrap mt-10 sm:mt-2 gap-10 sm:gap-0">
         <div className="flex flex-col gap-8 w-72 ">
           <p className='text-3xl blackBoxFont mb-5 pt-3 text-white'>
-            Gemaverse
+            FS Universum
           </p>
 
           <div>
@@ -30,15 +30,15 @@ const HomeFoooter = () => {
         </div>
 
         <div className="flex flex-wrap gap-8 sm:ml-0">
-          <Link href={"https://discord.gg/Jzed6pEmYz"} target={"_blank"}>
+          <Link href={"https://discord.gg/FSUni"} target={"_blank"}>
             <Image src={discord} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
           </Link>
 
-          <Link href={"https://www.instagram.com/gemaverse.in/"} target={"_blank"}>
+          <Link href={"https://www.instagram.com/fsuni/"} target={"_blank"}>
             <Image src={instagram} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
           </Link>
 
-          <Link href={"https://twitter.com/GemaverseX"} target={"_blank"}>
+          <Link href={"https://twitter.com/fsuni} target={"_blank"}>
             <Image src={twitter} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
           </Link>
 
@@ -59,7 +59,7 @@ const HomeFoooter = () => {
           &copy;
         </span>
         {new Date().getFullYear()}
-        <span className=' ml-1'>Gemaverse.</span> All rights reserved
+        <span className=' ml-1'>FSUniversum.</span> All rights reserved
       </p>
 
 
@@ -68,5 +68,3 @@ const HomeFoooter = () => {
 }
 
 export default HomeFoooter
-// https://www.linkedin.com/company/gemaverse/
-// <Image src={youtube} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
