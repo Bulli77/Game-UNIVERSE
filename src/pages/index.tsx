@@ -15,12 +15,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Gemaverse</title>
-        <meta name="description" content="Gemaverse - Level up your gaming skills and health. Take on our Gamer’s Health challenge revolution and earn rewards for your victories on our platform " />
+        <title>FS Universe Platform</title>
+        <meta name="description" content="FSUniversum- Level up your gaming skills and health. Take on our Gamer’s Health challenge revolution and earn rewards for your victories on our platform " />
         <meta name="keywords" content="gaming community, valorant, gaming rewards, gaming challenges jainil patel gemaverse gemaverse founder gemaverse ceo" />
-        <meta name="author" content="jainil patel gemaverse gemaverse founder gemaverse ceo" />
+        <meta name="author" content="FreeStylers Network" />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.gemaverse.in/" />
+        <link rel="canonical" href="https://freestylers.network/" />
       </Head>
       <HomepageNavbar />
 
