@@ -1,9 +1,9 @@
-import React from 'react'
-import Image from 'next/image'
-import discord from "../../assets/discorLoginDashboard.svg"
-import riotId from "../../assets/riotDashboardLogin.svg"
-import { Tooltip } from '@chakra-ui/react'
-import Link from 'next/link'
+import React from 'react';
+import Image from 'next/image';
+import discord from "../../assets/discorLoginDashboard.svg";
+import riotId from "../../assets/riotDashboardLogin.svg";
+import { Tooltip } from '@chakra-ui/react';
+import Link from 'next/link';
 const DashboardNavbar = () => {
     // to get the First letter of the the user's name after login you can use "chartAt[0] to get the first letter and then replace it with ".k"
     
@@ -42,8 +42,8 @@ const DashboardNavbar = () => {
                     </div>
                 </div>
             </div>
-        </div>
-    )
-}
+   </div>
+    );
+};
 
-export default DashboardNavbar
+export default DashboardNavbar;
