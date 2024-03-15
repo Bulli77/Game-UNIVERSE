@@ -278,13 +278,13 @@ const TipsIndex = () => {
     const tips = [
         {
             id: 1,
-            tipType: "game tips",
-            actualTip: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+            tipType: "CS2",
+            actualTip: "You have over 2400 elo in Faceit? Connect Yours Faceit Profil and GET TOKENS!."
         },
         {
             id: 2,
-            tipType: "game tips",
-            actualTip: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+            tipType: "Valorant",
+            actualTip: "Yours Account get 7 reported in this week"
         }
     ]
 
