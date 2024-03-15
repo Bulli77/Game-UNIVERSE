@@ -94,7 +94,7 @@ const SettingsIndex = () => {
 
                     <p className='text-xl text-white mt-4 mb-5 uppercase tracking-[0.17em]'>discord</p>
                     <div className='flex cursor-pointer w-[90%] items-center mb-4 settingsSocialsButton mr-2 md:mr-0'>
-                        <p>Connected with boogeyman </p>
+                        <p>Connected with Discord </p>
                         <Image src={discord} alt='' quality={100} />
                     </div>
 
@@ -105,7 +105,7 @@ const SettingsIndex = () => {
 
                     <p className='text-xl text-white mb-3 uppercase tracking-[0.17em]'>Riot</p>
                     <div className='flex cursor-pointer w-[90%] items-center settingsSocialsButton mb-2 mr-2 md:mr-0'>
-                        <p>Connected with boogeyman </p>
+                        <p>Connected with Riot </p>
                         <Image src={riotId} alt='' quality={100} />
                     </div>
 
