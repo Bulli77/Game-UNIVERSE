@@ -30,15 +30,15 @@ const HomeFoooter = () => {
         </div>
 
         <div className="flex flex-wrap gap-8 sm:ml-0">
-          <Link href={"https://discord.gg/Jzed6pEmYz"} target={"_blank"}>
+          <Link href={"https://discord.gg"} target={"_blank"}>
             <Image src={discord} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
           </Link>
 
-          <Link href={"https://www.instagram.com/gemaverse.in/"} target={"_blank"}>
+          <Link href={"https://www.instagram.com/"} target={"_blank"}>
             <Image src={instagram} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
           </Link>
 
-          <Link href={"https://twitter.com/GemaverseX"} target={"_blank"}>
+          <Link href={"https://twitter.com/"} target={"_blank"}>
             <Image src={twitter} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
           </Link>
 
@@ -59,7 +59,7 @@ const HomeFoooter = () => {
           &copy;
         </span>
         {new Date().getFullYear()}
-        <span className=' ml-1'>Gemaverse.</span> All rights reserved
+        <span className=' ml-1'>FSUni.</span> All rights reserved
       </p>
 
 
@@ -68,5 +68,5 @@ const HomeFoooter = () => {
 }
 
 export default HomeFoooter
-// https://www.linkedin.com/company/gemaverse/
+// https://www.linkedin.com/company/fsuni/
 // <Image src={youtube} quality={100} alt='social meaid' className='cursor-pointer socialMediaIcon' />
