@@ -17,7 +17,7 @@ export default function Home() {
       <Head>
         <title>FS Universe Platform</title>
         <meta name="description" content="FSUniversum- Level up your gaming skills and health. Take on our Gamer’s Health challenge revolution and earn rewards for your victories on our platform " />
-        <meta name="keywords" content="gaming community, valorant, gaming rewards, gaming challenges jainil patel gemaverse gemaverse founder gemaverse ceo" />
+        <meta name="keywords" content="gaming community, valorant, cs2, gaming rewards, gaming" />
         <meta name="author" content="FreeStylers Network" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://freestylers.network/" />
