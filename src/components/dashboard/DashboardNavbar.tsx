@@ -19,17 +19,17 @@ const DashboardNavbar = () => {
                         </div>
 
                         <Link href={"/dashboard/Profile"}>
-                <a className="flex items-center gap-4">
-                    <p className='uppercase font-semibold text-white text-sm'>Sandeep.k</p>
-                    <div>
-                        <Image 
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" 
-                            width={40} 
-                            height={40} 
-                            className='rounded-full object-cover' 
-                            alt='Profile Picture' 
-                       </div>
-                            </div>
+                                <a className="flex items-center gap-4">
+                                <p className='uppercase font-semibold text-white text-sm'>Sandeep.k</p>
+                                <div className='w-10 h-10 rounded-full overflow-hidden'>
+                                <Image 
+                                        src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" 
+                                    width={40} 
+                                    height={40} 
+                                    alt='Profile Picture' 
+                                    />
+                                    </div>
+                                </a>
                         </Link>
 
                     </div>
