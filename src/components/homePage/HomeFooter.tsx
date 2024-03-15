@@ -65,6 +65,8 @@ const HomeFoooter = () => {
 
     </div>
   )
-}
+},
+];
+
 
 export default HomeFoooter
