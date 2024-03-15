@@ -8,10 +8,10 @@ const Try = () => {
                     <div className="heroDashboardContainer pb-10 relative top-12 md:ml-8 bg-black bg-opacity-40 heroGlassBox rounded">
 
                         <div className="flex flex-col gap-4 md:ml-5 ml-2 pt-2 pb-6 rounded-md ">
-                            <p className='text-gray-400 -mb-7'>PLay and earn</p>
-                            <p className='blackBoxFont text-white text-7xl'>Mega prize</p>
+                            <p className='text-gray-400 -mb-7'>PLay and Earn</p>
+                            <p className='blackBoxFont text-white text-7xl'>Crypto Token</p>
                             <p className='text-gray-400 -mt-5 montestratFont'>
-                                Join the ultimate gaming event, compete for the Mega Prize! Score points <br />
+                                Join the ultimate gaming event, compete for the Mega AIR DROP! Real CryptoTokens <br />
                                 based on your in-game performance, climb the leaderboard, and win.
                             </p>
 
