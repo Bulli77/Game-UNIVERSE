@@ -49,24 +49,21 @@ const HomeFoooter = () => {
       </div>
 
       <p className=' text-center interFont madeWLove mt-8'>
+        <p className='text-center interFont madeWLove mt-8'>
         Made with Love
         <span className='text-red-500'>❤ </span>
         By Gamers, For Gamers
       </p>
 
-      <p className=' font-semibold text-center interFont madeWLove mt-3'>
+      <p className='font-semibold text-center interFont madeWLove mt-3'>
         <span className='ml-2 font-semibold mr-2'>
           &copy;
         </span>
         {new Date().getFullYear()}
-        <span className=' ml-1'>FSUniversum.</span> All rights reserved
+        <span className='ml-1'>FSUniversum.</span> All rights reserved
       </p>
-
-
     </div>
-  )
-},
-];
+  );
+};
 
-
-export default HomeFoooter
+export default HomeFooter;
